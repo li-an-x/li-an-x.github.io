@@ -1,17 +1,10 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+Lian Xiang
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I’m Lian, a fourth-year undergraduate physics student (with a minor in aerospace engineering) at Georgia Institute of Technology. I am interested in further exploring quantum information theory and AMO physics. Currently, I am researching applying quantum algorithms in computational fluid dynamics (CFD) problems.
 
 #### Email
-sli[at]cumt.edu.cn
+lxiang36[at]gatech.edu
 
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
