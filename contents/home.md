@@ -1,4 +1,4 @@
-I’m Lian, a fourth-year undergraduate physics student (with a minor in aerospace engineering) at Georgia Institute of Technology. I am interested in further exploring quantum information theory and AMO physics. Currently, I am researching applying quantum algorithms in computational fluid dynamics (CFD) problems.
+I’m Lian, a fourth-year undergraduate physics student at the Georgia Institute of Technology with a strong interest in quantum information theory and atomic, molecular, and optical (AMO) physics. Advised by Prof. Spencer Bryngelson in the School of Computational Science and Engineering, my current research focuses on integrating quantum computing with computational fluid dynamics (CFD). I explore hybrid classical-quantum algorithms, their stability, and the impact of noise on iterative solvers.
 
 #### Email
 lxiang36[at]gatech.edu
