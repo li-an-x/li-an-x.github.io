@@ -1,4 +1,4 @@
-I’m Lian, a fourth-year undergraduate physics student at the Georgia Institute of Technology with interests in quantum information theory and atomic, molecular, and optical (AMO) physics. Advised by Prof. Spencer Bryngelson in the School of Computational Science and Engineering, my current research focuses on integrating quantum computing with computational fluid dynamics (CFD). I explore hybrid classical-quantum algorithms, their stability, and the impact of noise on iterative solvers.
+I’m Lian, a fourth-year undergraduate physics student at the Georgia Institute of Technology with broad interests in quantum information theory, AMO, and condensed matter physics. Advised by Prof. Spencer Bryngelson in the School of Computational Science and Engineering, my current research focuses on integrating quantum computing with computational fluid dynamics (CFD). I explore hybrid classical-quantum algorithms, their stability, and the impact of noise on iterative solvers.
 
 #### Email
 lxiang36[at]gatech.edu
