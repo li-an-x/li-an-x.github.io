@@ -8,7 +8,7 @@
     </a>
     <br>
     <a href="https://scholar.google.com/citations?user=GLHtBwsAAAAJ&hl=en" target="_blank" class="contact-link">
-        <i class="bi bi-github"></i> Google Scholar
+        <i class="bi bi-book"></i> Google Scholar
     </a>
 </div>
 
