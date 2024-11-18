@@ -3,4 +3,6 @@ I’m Lian, a fourth-year undergraduate physics student at the Georgia Institute
 #### Email
 lxiang36[at]gatech.edu
 
+###### background picture taken at Piedmont Park, Atlanta, GA
+
 
